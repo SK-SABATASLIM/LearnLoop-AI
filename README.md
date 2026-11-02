@@ -30,3 +30,16 @@ LearnLoop AI is a GenAI-powered learning assistant that helps students understan
 3. Configure your Gemini API key in Streamlit secrets.
 4. Run the application:
    streamlit run app.py
+   
+## Screenshots
+
+### Home Page
+![Home Top](Screenshots/home-top.png)
+![Home Bottom](Screenshots/home-button.png)
+
+### Practice Quiz
+![Practice Quiz](Screenshots/pratice-quiz.png)
+
+### Progress Dashboard
+![Dashboard](Screenshots/Dashboard1.png.png)
+![Dashboard](Screenshots/Dashboard2.png.png)
